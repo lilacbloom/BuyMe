@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <config>
-    <browserType>Chrome</browserType>
+    <BROWSER>Chrome</BROWSER>
     <URL>https://www.buyme.co.il</URL>
 </config>
